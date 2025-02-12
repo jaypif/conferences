@@ -2,6 +2,12 @@
 
 Ce repo regroupe les talk que j'ai donnée en Conférence.
 
+## List des talks
+
+* Café de l'IA - 06/02/2025 - Paris
+
+## Licence
+
 Le contenu de ce repository est protégé par la Licence CC-By-4.x
 
 Vous êtes autorisé à :
